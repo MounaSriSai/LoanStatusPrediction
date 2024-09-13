@@ -12,9 +12,7 @@ The Loan Eligibility Prediction project aims to develop a predictive model that 
 4. [Usage](#usage)
 5. [Data](#data)
 6. [Model](#model)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
+7. [License](#license)
 
 ## Project Description
 
