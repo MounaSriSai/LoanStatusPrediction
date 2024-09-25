@@ -79,7 +79,3 @@ The project explores various machine learning algorithms to predict loan eligibi
 
 The best-performing model is selected based on evaluation metrics such as accuracy, precision, recall, and F1 score.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
